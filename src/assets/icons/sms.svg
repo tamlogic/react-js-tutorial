@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10.596" height="8.363" viewBox="0 0 10.596 8.363">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.529" y1="1.133" x2="0.706" y2="-0.193" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7971e"/>
+      <stop offset="1" stop-color="#ffd200"/>
+    </linearGradient>
+  </defs>
+  <g id="SMS_icon" data-name="SMS icon" transform="translate(0 0)">
+    <path id="Path_28" data-name="Path 28" d="M15.582,9.67h-.29v3.19a.864.864,0,0,1-.869.946H8.743v.152a1.023,1.023,0,0,0,1.012.882H14.1l1.661.977-.241-.977h.064a.784.784,0,0,0,.744-.882v-3.53A.684.684,0,0,0,15.582,9.67Z" transform="translate(-5.73 -7.454)" fill="url(#linear-gradient)"/>
+    <path id="Path_29" data-name="Path 29" d="M7.845,3.24h-6.6C.668,3.24,0,3.756,0,4.253v4c0,.458.566.788,1.109.839L.756,10.431,3.019,9.1H7.845c.58,0,1.116-.352,1.116-.849v-4A1.139,1.139,0,0,0,7.845,3.24ZM2.255,6.615a.6.6,0,1,1,.6-.6A.6.6,0,0,1,2.255,6.615Zm2.226,0a.6.6,0,1,1,.6-.6A.6.6,0,0,1,4.481,6.615Zm2.226,0a.6.6,0,1,1,.6-.6A.6.6,0,0,1,6.707,6.615Z" transform="translate(0 -3.24)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
